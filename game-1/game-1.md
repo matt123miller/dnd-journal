@@ -1,3 +1,5 @@
+# Session 1
+
 You're on a train
 
 They were discussing a little about being kidnapped
@@ -32,4 +34,4 @@ Spoke to the merchant selling feather tokens
 
 Peruse the market a little bit
 
-Game ends
+SESSION END.

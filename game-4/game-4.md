@@ -1,3 +1,5 @@
+# Session 4
+
 SHOPPING
 
 Richard - various fighty fighty goods
@@ -8,4 +10,4 @@ Go to Precarious via Sky Coach driven by the fantastic Jorg
 
 Arrive
 
-Maybe the session ended here?
+SESSION END.

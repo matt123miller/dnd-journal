@@ -1,3 +1,5 @@
+# Session 2
+
 Goes into silver flame temple
 
 Speaks to Mina
@@ -38,8 +40,10 @@ Barry puts people to sleep, eventually gets the thief
 
 Balasar begins to intimidate him, lifting him into the air and takes the llama back.
 
-A body suddenly impacts the floor next to them, wrapped in a cloak. 
+A body suddenly impacts the floor next to them, wrapped in a cloak.
 
 Looking up the see a bridge above with people gesticulating over the edge
 
 Looking back to the body, they see a hand sticking out from the cloak with pulsating grey tattoos on it.
+
+SESSION END.

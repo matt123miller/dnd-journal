@@ -1,3 +1,4 @@
+# Session 3
 
 Fight the big bad monster
 
@@ -13,5 +14,6 @@ Talk to Rozar, info about Yvonna, very little though, just her name and that she
 
 Dundeek gives players some magical llama juice of healing and doesn't charge them for their nights stay
 
-
 Nosirrah and Rozar Thunderbrand shook mage hands
+
+SESSION END.
