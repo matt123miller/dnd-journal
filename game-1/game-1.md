@@ -1,37 +1,10 @@
 # Session 1
 
-You're on a train
+The Lightning Rail emerged from the mountain, the few rays of morning sun washing over the polished blue metal and piercing the morning fog surrounding the viaduct columns. Carriages followed, beetles of dark metal plates and windows reflecting the light,gliding above a series of conductor stones set into the viaduct's flat surface. Bound to an arcane machine in the caboose, the lightning elemental purred with pleasure to be beneath the sky once more.The Orien engineer pulled at the lightning reins, the elemental strained against it's bindings. It's energies chanelled from the plane of Air and unwillingly siphoned into the six bulbous generators that flanked the engine car. The train picked up speed.
 
-They were discussing a little about being kidnapped
+Ferrying paying customers from one side of Khorvaire to the other, the Lightning Rail is one of the few reliable between the many nations following the Great War. Whilst Lyrandar airships are faster with their sails and fire rings (TODO: what are the called?) and certainly more exciting, House Orien dominate ground travel with it's train network. And while they may also lose out in sheer style, they more than make up for in refinement. This particular service held five carriages. The open benches and enclosed booths of the second carriage were sparesly filled, barely 15 passengers on the overnight train from Zilspar to Sharn.
 
-Barry is separate
+A half-elf sat at the front end, gently tuning a lute and humming aimlessly to himself. A human family lay sleeping in a booth, a young girl slumped against the broad chest of her father. Further down a lone Warforged sat staring out the window, it's unblinking eyes drinking in the beauty beyond the window. 3 pale robed acolytes of The Silver Flame huddled together talking, the stylised silver arrow of the order openly hanging from the neck of the groups apparent leader. 2 old gnomes sat opposite each other, dicing. And at the rear end sat a mismatched group of an Elf, a Tiefling, a Human and a Half-Elf. For all great stories begin with strangers thrown together, victims of circumstance.
 
-Served by the warforged lady
-
-Warforged then goes to the silver flame group, lead by Sarah Shimmerstein. Sarah is put off by the warforged, probs racist.
-
-Barry goes to say hi, offers a sandwich, Mialee makes it taste like poo. Classic
-
-Cultists come in, they have tattoos
-
-cultists put the silver flame group to sleep, Liana noticed
-
-They eventually fight, uses the train terrain for a fun fight climbing over things and whatnot
-
-Win
-
-Loots the bodies, blood ring, tattoos, experiments with the tattoos
-
-Sarah tells them to find her at the temple for a reward
-
-Barry bluffs the warforged train captain
-
-They all get off the train
-
-Find the nearest Silver Flame temple
-
-Spoke to the merchant selling feather tokens
-
-Peruse the market a little bit
-
-SESSION END.
+These strangers appeared worse for wear in the early morning light. Dirt clinging to their cloaks, uncomfortable silence filling the void between them, all they shared were nervous glances and an hour of sleep. Well, and the events of this morning.
+LIANA BREAKS SILENCE. STILTED DIALOGUE HERE WE COME.
