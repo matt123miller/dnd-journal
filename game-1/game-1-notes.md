@@ -20,7 +20,7 @@ They eventually fight, uses the train terrain for a fun fight climbing over thin
 
 Win
 
-Loots the bodies, blood ring, tattoos, experiments with the tattoos
+Loots the bodies, blood ring, tattoos, experiments with the tattoos, Roanmara has the ring.
 
 Sarah tells them to find her at the temple for a reward
 

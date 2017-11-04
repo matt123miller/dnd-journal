@@ -1,10 +1,43 @@
 # Session 1
 
-The Lightning Rail emerged from the mountain, the few rays of morning sun washing over the polished blue metal and piercing the morning fog surrounding the viaduct columns. Carriages followed, beetles of dark metal plates and windows reflecting the light,gliding above a series of conductor stones set into the viaduct's flat surface. Bound to an arcane machine in the caboose, the lightning elemental purred with pleasure to be beneath the sky once more.The Orien engineer pulled at the lightning reins, the elemental strained against it's bindings. It's energies chanelled from the plane of Air and unwillingly siphoned into the six bulbous generators that flanked the engine car. The train picked up speed.
+The Lightning Rail emerged from the mountain, the few rays of morning sun washing over the polished blue metal and piercing the morning fog surrounding the viaduct columns. Carriages followed, beetles of dark metal plates and windows reflecting the light,gliding above a series of conductor stones set into the viaduct's flat surface. Bound to an arcane machine in the caboose, the lightning elemental purred with pleasure to be beneath the sky once more.The Orien engineer pulled at the lightning reins, the elemental strained against it's bindings. It's energies chanelled from the plane of Air and unwillingly siphoned into the six bulbous generators that flanked the engine car. Lightning coursed across the head of train, the occasional thunderclap ringing out into the morning air. The train picked up speed.
 
-Ferrying paying customers from one side of Khorvaire to the other, the Lightning Rail is one of the few reliable between the many nations following the Great War. Whilst Lyrandar airships are faster with their sails and fire rings (TODO: what are the called?) and certainly more exciting, House Orien dominate ground travel with it's train network. And while they may also lose out in sheer style, they more than make up for in refinement. This particular service held five carriages. The open benches and enclosed booths of the second carriage were sparesly filled, barely 15 passengers on the overnight train from Zilspar to Sharn.
+Ferrying paying customers from one side of Khorvaire to the other, the Lightning Rail is one of the few reliable between the many nations following the Great War. Whilst Lyrandar airships are faster with their sails and fire rings (TODO: what are they called?) and certainly more exciting, House Orien dominate ground travel with it's train network. And while they may also lose out in sheer style, they more than make up for in refinement. This particular service held five carriages. The open benches and enclosed booths of the second carriage were sparesly filled, barely 15 passengers on the overnight train from Zilspar to Sharn.
 
-A half-elf sat at the front end, gently tuning a lute and humming aimlessly to himself. A human family lay sleeping in a booth, a young girl slumped against the broad chest of her father. Further down a lone Warforged sat staring out the window, it's unblinking eyes drinking in the beauty beyond the window. 3 pale robed acolytes of The Silver Flame huddled together talking, the stylised silver arrow of the order openly hanging from the neck of the groups apparent leader. 2 old gnomes sat opposite each other, dicing. And at the rear end sat a mismatched group of an Elf, a Tiefling, a Human and a Half-Elf. For all great stories begin with strangers thrown together, victims of circumstance.
+A half-elf sat at the front end, gently tuning a lute and humming aimlessly to himself. A human family lay sleeping in a booth, a young girl slumped against the broad chest of her father. Further down a lone Warforged sat staring out the window, unblinking eyes drinking in the beauty beyond the window. 3 pale robed acolytes of The Silver Flame huddled together talking, the stylised silver arrow of the order openly hanging from the neck of the groups apparent leader. 2 old gnomes sat opposite each other, dicing. And at the rear end sat a mismatched group of an Elf, a Tiefling, a Human and a Half-Elf. For all great stories begin with strangers thrown together, victims of circumstance.
 
-These strangers appeared worse for wear in the early morning light. Dirt clinging to their cloaks, uncomfortable silence filling the void between them, all they shared were nervous glances and an hour of sleep. Well, and the events of this morning.
-LIANA BREAKS SILENCE. STILTED DIALOGUE HERE WE COME.
+These strangers appeared worse for wear in the early morning light. Dirt clinging to their cloaks, uncomfortable silence filling the void, all they shared were nervous glances and an hour of sleep between them. Well, and the events of this morning.
+
+The Tiefling was first to break the silence, straight to the point.
+
+"I don't know how we ended up in that warehouse or who dragged us there, but I'm going to kill them when I find out."
+
+TODO: Ask for detailed character appearance choices instead of going from the pictures.
+
+The others exchanged tense chuckles, some of the terror beginning to shake off. The Tiefling continued, the pale grey skin of her face shadowed within the hood of her cloak.
+
+"Why kidnap me? I'm nothing" she said, matter of fact. "Why ambush me in the middle of the night, knock me out and lock me in that cell"
+
+"They kidnapped all of us remember" interjected the half elf, tucking strands of auburn hair behind an ear. "Why choose us? Seems random to me. I want to know what happened as well."
+
+"That will have to wait though. For now I just want to get as far away as possible." Leaning towards the Human, the horns of her Tiefling heritage curving back from above furrowed eyebrows, she asked."Where are we going and who are you anyway?"
+
+"Sharn, didn't you read the signs? " he said, taken aback at the lack of respect he was occustomed to recieving. "And I'm Nossirah by the way. I wager we'll be in Sharn within 30 minutes. You'll know we're close when it starts raining."
+
+"Liana" the Tiefling responded, "Call me Liana" before turning away to look out the window into the fog.
+
+"I'm Roanmara" said the Elf to noone in particular, "my family lives near Lake Galifar. We have tend the land there with our neighbours. Mother and Father, myself, Lillith" her voice trailing off as she thumbed the edge of a carved wooden pendant that hung from her delicate neck, not wanting to share too much with these strangers.
+
+Before the Half-Elf could introduce herself, the group was interrupted by the carriage door opening behind them. Wind rushed in behind the slight frame of a female pattern Warforged pushing a trolley before her.  Her gentle gait was at odds with the connected (TODO: better word than connected?) stone and metal body moving beneath the deep blue jacket uniform of train staff. The grey stone plates of her face formed a welcoming smile, matched in the pale blue light glowing within her eye sockets.
+
+(HP THROWBACK!) "Anything from the trolley dears?" she slowly asked, a faint hint of a metallic ring behind her words. "I've got sandwiches, tea or coffee to perk you up,some biscuits and even a little cheese out of Talenta if you like."
+
+The Hlaf-Elf perked up at that. "Ooh I'd love some biscuits please, with the sugar on." She turned back to her fellows "I'm Mialee by the way. Mialee Windriver. Does anyone else want something?"
+
+After murmurs of sandwiches, tea and searching for coins among the scattered packs and belongings of a hasty retreat the Warforged passed food and drink to the group. Beneath the sleeve of an outstretched arm, Liana spotted deep scratches and unrepaired cracks betraying the history common to most Warforged.
+
+They were quiet for a time, enjoying breakfast and the feeling of a warm mugs in hand. The Warforged wheeled her wares down the length of the carriage, stopping to talk to everyone.
+
+"Stay away from me you brute!"
+
+The sudden commotion shattered the quiet of the carriage. People turned to look.

@@ -9,7 +9,7 @@ I want to try and avoid the -notes files.
 Maybe some other time....
 '''
 
-filePaths = ['game-1/game-1.md', 'game-2/game-2.md', 'game-3/game-3.md', 'game-4/game-4.md',
+filePaths = ['game-1/game-1.md', 'game-1/game-1-notes.md', 'game-2/game-2.md', 'game-3/game-3.md', 'game-4/game-4.md',
              'game-5/game-5.md', 'game-6/game-6.md', 'game-7/game-7.md', 'game-8/game-8.md']
 
 
