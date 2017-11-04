@@ -4,7 +4,7 @@ The Lightning Rail emerged from the mountain, the few rays of morning sun washin
 
 Ferrying paying customers from one side of Khorvaire to the other, the Lightning Rail is one of the few reliable between the many nations following the Great War. Whilst Lyrandar airships are faster with their sails and fire rings (TODO: what are they called?) and certainly more exciting, House Orien dominate ground travel with it's train network. And while they may also lose out in sheer style, they more than make up for in refinement. This particular service held five carriages. The open benches and enclosed booths of the second carriage were sparesly filled, barely 15 passengers on the overnight train from Zilspar to Sharn.
 
-A half-elf sat at the front end, gently tuning a lute and humming aimlessly to himself. A human family lay sleeping in a booth, a young girl slumped against the broad chest of her father. Further down a lone Warforged sat staring out the window, unblinking eyes drinking in the beauty beyond the window. 3 pale robed acolytes of The Silver Flame huddled together talking, the stylised silver arrow of the order openly hanging from the neck of the groups apparent leader. 2 old gnomes sat opposite each other, dicing. And at the rear end sat a mismatched group of an Elf, a Tiefling, a Human and a Half-Elf. For all great stories begin with strangers thrown together, victims of circumstance.
+A half-elf sat at the front end of the carriage, gently tuning a lute and humming aimlessly to himself. A human family lay sleeping in a booth, a young girl slumped against the broad chest of her father. Further down a lone male pattern Warforged sat staring out the window, unblinking eyes drinking in the beauty beyond the window. 3 pale robed human acolytes of The Silver Flame huddled together, talking. The stylised silver arrow of the order openly hanging from the neck of the groups apparent leader. 2 old gnomes sat opposite each other, dicing. And at the rear end sat a mismatched group of an Elf, a Tiefling, a Human and a Half-Elf. For all great stories begin with strangers thrown together, victims of circumstance.
 
 These strangers appeared worse for wear in the early morning light. Dirt clinging to their cloaks, uncomfortable silence filling the void, all they shared were nervous glances and an hour of sleep between them. Well, and the events of this morning.
 
@@ -32,12 +32,20 @@ Before the Half-Elf could introduce herself, the group was interrupted by the ca
 
 (HP THROWBACK!) "Anything from the trolley dears?" she slowly asked, a faint hint of a metallic ring behind her words. "I've got sandwiches, tea or coffee to perk you up,some biscuits and even a little cheese out of Talenta if you like."
 
-The Hlaf-Elf perked up at that. "Ooh I'd love some biscuits please, with the sugar on." She turned back to her fellows "I'm Mialee by the way. Mialee Windriver. Does anyone else want something?"
+The Half-Elf perked up at that. "Ooh I'd love some biscuits please, with the sugar dusting." She turned back to her fellows "I'm Mialee by the way. Mialee Windriver. Does anyone else want something?"
 
 After murmurs of sandwiches, tea and searching for coins among the scattered packs and belongings of a hasty retreat the Warforged passed food and drink to the group. Beneath the sleeve of an outstretched arm, Liana spotted deep scratches and unrepaired cracks betraying the history common to most Warforged.
 
-They were quiet for a time, enjoying breakfast and the feeling of a warm mugs in hand. The Warforged wheeled her wares down the length of the carriage, stopping to talk to everyone.
+"Call for me if you need anything else, just shout for Beth"
+
+With that, Beth wheeled her wares down the length of the carriage, stopping to enquire with everyone as she passed. The group were quiet for a time, enjoying breakfast and the feeling of a warm mugs in hand. Nosirrah began sorting through his posessions, such as they were, checking over his pack and searching for signs of damage on the sword and shield he'd grabbed during their escape.
 
 "Stay away from me you brute!"
 
-The sudden commotion shattered the quiet of the carriage. People turned to look.
+The sudden commotion shattered the quiet of the carriage. People turned to look, curious. The other Warforged had stirred from his reverie. He tensed at the confrontation, beginning to rise but thought better of it. Beth was stammering an apology.
+
+"I'm s-s-sorry Ma'am, but I wa-was only asking if yo-"
+
+"I know what you were doing! And I want nothing you're peddling." the lady commanded, smacking an offered sandwich from the Warforged's large hand. "Stay away from us." she snapped, turning back to her companions and muttering to herself. "Dangerous constructs, fit for nothing but physical work and war."
+
+Beth stooped to pick up her unwanted wares and rushed away, passing the other Warforged who reached out an ignored hand of comfort to his kin.
