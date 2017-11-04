@@ -18,7 +18,7 @@ The others exchanged tense chuckles, some of the terror beginning to shake off. 
 
 "Why kidnap me? I'm nothing" she said, matter of fact. "Why ambush me in the middle of the night, knock me out and lock me in that cell"
 
-"They kidnapped all of us remember" interjected the half elf, tucking strands of auburn hair behind an ear. "Why choose us? Seems random to me. I want to know what happened as well."
+"They kidnapped all of us remember, and I'd like to know why" interjected the half elf, tucking strands of auburn hair behind an ear. "Why choose us? Seems random to me."
 
 "That will have to wait though. For now I just want to get as far away as possible." Leaning towards the Human, the horns of her Tiefling heritage curving back from above furrowed eyebrows, she asked."Where are we going and who are you anyway?"
 
@@ -42,10 +42,26 @@ With that, Beth wheeled her wares down the length of the carriage, stopping to e
 
 "Stay away from me you brute!"
 
-The sudden commotion shattered the quiet of the carriage. People turned to look, curious. The other Warforged had stirred from his reverie. He tensed at the confrontation, beginning to rise but thought better of it. Beth was stammering an apology.
+The sudden commotion shattered the quiet of the carriage. People turned to look, curious. The other Warforged had stirred from his reverie. He tensed at the confrontation, beginning to rise but thought better of it. Beth was stammering an apology at the Silver Flame booth.
 
 "I'm s-s-sorry Ma'am, but I wa-was only asking if yo-"
 
-"I know what you were doing! And I want nothing you're peddling." the lady commanded, smacking an offered sandwich from the Warforged's large hand. "Stay away from us." she snapped, turning back to her companions and muttering to herself. "Dangerous constructs, fit for nothing but physical work and war."
+"I know what you were doing! And I want nothing you're peddling." their leader commanded, smacking an offered sandwich from the Warforged's large hand. "Stay away from us." she snapped, turning back to her companions and muttering to herself. "Dangerous constructs, fit for nothing but physical work and war."
 
-Beth stooped to pick up her unwanted wares and rushed away, passing the other Warforged who reached out an ignored hand of comfort to his kin.
+Beth stooped to pick up her unwanted wares and rushed away, passing the other Warforged who reached out an ignored hand of comfort to his kin. Liana peered over the back of her seat, gesturing to Mialee to watch with her. They observed the lone Half-Elf at the far end of the carriage set down his instrument to stand in front of the trolley, reaching out a hand to comfort Beth with murmured conversation. He purchased sandwiches and begun to walk down the central walkway, stopping next to the benches where the members of The Silver Flame had begun talking once more. His confident voice carried the 40ft to where Liana and Mialee huddled behind their chairs.
+
+"Why don't you all relax, I bought enough food to share if you want. Here, take it." he said, extending hands laden with food.
+
+Cautious of this unwarranted generosity, their leader looked the man up and down before breaking into a smile. "Thank you! How kind." she said, as she took the offered sandwiches and distributed them amongst her allies.
+
+"I'm Barry, by the way. Barry the Bard." the Half-Elf announced.
+
+"Yes I think I've heard of you. I don't get out of the temple much but rumours precede you. I'm Sarah," she responded "and these are my students." She unwrapped a sandwich and lifted it towards her mouth.
+
+"Watch this." giggled Mialee in Liana's ear. Mialee began to whisper phrases in a tongue Liana couldn't understand, the air leaving her mouth began to shimmer as she manipulated the magic slightly with her hands before closing them into fists. She forced the power from her body and willed it towards Sarah and Barry, waiting.
+
+Sarah took a bite, chewing for a moment before recoiling. Holding onto the chair beside her, she began to retch between phrases. "What on Eberron...is in these things?"
+
+Liana and Mialee hid down behind their seats, stifling their laughter. "Serves her right, treating that woman like that" Mialee said between giggles. "Loads of Warforged have visited Mother's store and they've been no worse than anyone else."
+
+As they hid behind chairs, 2 gentleman entered the far end of the carriage.
