@@ -5,3 +5,5 @@ Everyone was kidnapped
 Broke out
 
 Escaped on a train
+
+Maybe have some intro to Eberron text?
