@@ -186,14 +186,10 @@ Roanmara stood and toyed with the pendant around her neck for a moment. "It's no
 
 "Actually, I don't want it after all" said Liana, her eye brows raised.
 
-"How about a trade then?" Roanmara responded. "I'll look after it until it can be destroyed and in return..." She lifted a delicate hand, it's long thing fingers commong to all Elves, and placed it over the hand Liana was still using to explore her injury. Roanmara smiled. "Try not to move" she said, as light jumped from her outstretched hand into Liana. Warmth spread through her torso and she felt the energy build within her, all the stress and damage of the fight fading away. This wasn't a shock to Liana, she'd experienced it many times. What shocked her was the rush of emotion as she remembered the person she'd often recieved this magic from, the only person she'd ever cared for during her short and miserable life.
+"How about a trade then?" Roanmara responded. "I'll look after it until it can be destroyed and in return..." She lifted a delicate hand, her long thin fingers common among Elves, and placed it over the hand Liana was still using to explore her injury. Roanmara smiled. "Try not to move" she said, as light jumped from her outstretched hand into Liana. Warmth spread through her torso and she felt the energy build within her, all the stress and damage of the fight fading away. This wasn't a shock to Liana, she'd experienced it many times. What shocked her was the rush of emotion as she remembered the person she'd often recieved this magic from, the only person she'd ever cared for during her short and miserable life.
 
 Liana struggled a response. "I...Thank you." she finally said, before turning away.
 
-"My pleasure" said Roanmara. "Now, pass me that ring please Barry and I'll make sure it's properly taken care of." She had taken a small pouch from somewhere and after emptying what appeared to be dried herbs and leaves into her pocket Roanmara delicately took hold of the ring through the pouch and folded the roughly woven fabric around it.
+"My pleasure" said Roanmara. "Now, pass me that ring please Barry and I'll make sure it's properly taken care of." She had produced a small pouch from somewhere and, after emptying what appeared to be dried herbs and leaves into her pocket, Roanmara delicately took hold of the ring through the pouch and folded the roughly woven fabric around it before tying it to her belt.
 
 WARFORGED CAPTAIN COMES IN AND OH BOY. BARRY IS A LIEING LAD. THAT HALFLING I FORGOT THE NAME OF ARRIVES AND TAKES THE PRAISE FOR HIMSELF.
-
-
-
-TODO: Roanmara should mention that she wanted to shoot her bow to help out, but didn't want to hit any innocent bystanders.
