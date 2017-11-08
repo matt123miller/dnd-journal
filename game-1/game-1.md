@@ -128,7 +128,7 @@ Nosirrah barely managed to defend himself, meeting most blows with his sword. Th
 
 Mialee had come running out into the walkway, drawing upon the well of power within her to strike at her opposing mage. Twisting tendrils of power in the air, she flicked 3 beads of blue energy that arced around the brawling fighters and into the Dwarf. One flew too close to the window during it's journey, leaving a deep gouge melted into the glass and burning through to the outside. Cold wind began to squeel into the carriage. Moments before impact they each expanded into the size of a fist and slammed into his head and torso, knocking him off his perch and onto the floor. 
 
-Liana, who had retreated into the adjacent booth, took the opportunity to scramble over the divide and jumped down onto the Dwarf. They grappled on the floor, amongst the sleeping bodies of the Silver Flame. They still lay unmoving, sacks over their heads, even next to the rolling tangle of Liana and the mage. The greater weight of the Dwarf was nullified by the shock of Mialee's spell and Liana writhed on top of him, trying to bring her dagger to bear. Face to face, they shared ragged breaths. Liana, oddly detached from her struggle, now noticed the smell of disturbed earth and decay. His arms and neck, presumably the torso to, were covered in odd grey tattoos that made her stomach roil. As they brawled the Dwarf snaked his hand up an arm and shoulder, crushing Liana's throat, denying air and vital blood to her brain. Her vision quickly blurring, she still could've sworn the tattoos were moving, pulsing, as she desperately clawed at the hand. Without thinking, Liana reached to her belt, pulling a second dagger from a sheath and swung it round wildly, burying it through the Dwarf's arm, the blade sliding between bone and muscle to stick out the other side. 
+Liana, who had retreated into the adjacent booth, took the opportunity to scramble over the divide and jumped down onto the Dwarf. They grappled on the floor, amongst the sleeping bodies of the Silver Flame. They still lay unmoving, sacks over their heads, even next to the rolling tangle of Liana and the mage. The greater weight of the Dwarf was nullified by the shock of Mialee's spell and Liana writhed on top of him, trying to bring her dagger to bear. Face to face, they shared ragged breaths. The wooden shaft of the bolt in Liana's shoulder snapped off in the struggle. Oddly detached from her predicament, Liana registered an earthy smell, like old leaves and disturbed soil and the sickly sweet undertones of decay. His arms and neck, presumably the torso to, were covered in odd grey tattoos that made her stomach roil. As they brawled the Dwarf snaked his hand up an arm and shoulder, crushing Liana's throat, denying air and vital blood to her brain. Her vision quickly blurring, she still could've sworn the tattoos were moving, pulsing, as she desperately clawed at the hand. Without thinking, Liana reached to her belt, pulling a second dagger from a sheath and swung it round wildly, burying it through the Dwarf's arm, the blade sliding between bone and muscle to stick out the other side. 
 
 He screamed then, an animalistic shriek of pain. Some innate power instantly flowed through his body. Electricity flashed over his skin, mirrored outside the carriage as the train flew along the conductor stones, energy flying over the engine. Liana was thrown back off the Dwarf, the electricity clenching her hands to fists, the dagger held firm in her hand as she landed crumpled on the floor. The Dwarf crawled away under the chairs to another booth, cradling his bloodied wrist.
 
@@ -174,13 +174,25 @@ The ring was a crude silver band, an apparent lack of craftsmanship. It had smal
 
 "It was DRINKING YOUR BLOOD, Liana!" Mialee interjected. "Look!" she exclaimed, grabbing the hand she'd just slapped. "Look at this." A clear and uniform stream of blood ran from the sleeve of her clothing, down the arm and ran up the fingers Liana was using to hold the ring.
 
-"I took a bolt from this asshole" Liana replied, kicking the Half-Orc for good measure. "So what?"
+"I took a crossbow bolt from this asshole" Liana replied, kicking the Half-Orc for good measure as she gingerly prodded her shoulder. "So what?"
 
 From the floor, all the crouching Roanmara whispered was "She's right" staring at the ring on the floor. It had landed in the still widening pool of blood yet it now lay at the centre of a ring of clear carpet maybe a foot in diamete, broken only by 3 thin channels of blood leading into the ring. These channels were slowly rotating around the ring, a whirlpool of Orions lifeblood.
 
-"And he...he chose to wear that?!?" Nosirrah struggled with the words. 
+"And he...he chose to wear that?!?" Nosirrah struggled with the words. "It must have been doing this to him the whole time."
 
-"You assume he chose?" replied Barry, shrugging slightly.
+"Are we assuming he chose?" replied Barry, shrugging slightly before drawing a small bolt from a box at his waist. Bending down, he hooked the ring with the iron tip of the bolt and lifted it to hang on the wood, careful not to tip the shaft too far and touch the ring himself.
+
+Roanmara stood and toyed with the pendant around her neck for a moment. "It's no coincidence they were kidnapping these followers of The Silver Flame either. They're very public in their prejudices. This whole thing reeks of necromancy."
+
+"Actually, I don't want it after all" said Liana, her eye brows raised.
+
+"How about a trade then?" Roanmara responded. "I'll look after it until it can be destroyed and in return..." She lifted a delicate hand, it's long thing fingers commong to all Elves, and placed it over the hand Liana was still using to explore her injury. Roanmara smiled. "Try not to move" she said, as light jumped from her outstretched hand into Liana. Warmth spread through her torso and she felt the energy build within her, all the stress and damage of the fight fading away. This wasn't a shock to Liana, she'd experienced it many times. What shocked her was the rush of emotion as she remembered the person she'd often recieved this magic from, the only person she'd ever cared for during her short and miserable life.
+
+Liana struggled a response. "I...Thank you." she finally said, before turning away.
+
+"My pleasure" said Roanmara. "Now, pass me that ring please Barry and I'll make sure it's properly taken care of." She had taken a small pouch from somewhere and after emptying what appeared to be dried herbs and leaves into her pocket Roanmara delicately took hold of the ring through the pouch and folded the roughly woven fabric around it.
+
+WARFORGED CAPTAIN COMES IN AND OH BOY. BARRY IS A LIEING LAD. THAT HALFLING I FORGOT THE NAME OF ARRIVES AND TAKES THE PRAISE FOR HIMSELF.
 
 
 
