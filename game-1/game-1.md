@@ -10,7 +10,9 @@ These strangers appeared worse for wear in the early morning light. Dirt clingin
 
 The Tiefling was first to break the silence, straight to the point.
 
-"I don't know how we ended up in that warehouse or who dragged us there, but I'm going to kill them when I find out."
+"I don't know how we ended up in that warehouse or who dragged us there, but I am going to find out what on Eberron they wanted, make them hurt, kill them. In that order."
+
+TODO: Extend this conversation, I don't want half a chapter of combat.
 
 TODO: Ask for detailed character appearance choices instead of going from the pictures.
 
@@ -84,7 +86,7 @@ Liana watched the whole exchange from her position, abnormally long fingers curl
 
 "No! Something else." Ever the inquisitive type, Liana got up and made to leave their booth. "I'm going to check."
 
-She dropped into a crouch, an old habit picked up from too many nights spent in the dark streets and alleyways of the Gnomish capital of Trolanport. Absent mindedly running a hand over the handle of a dagger strapped across her ribs, she was thankful the thugs who knocked her out a few hours earlier had stowed her belongings in that warehouse, there to take as she and her companions fled. Liana doubted this was would come down to blades, but she was cautious to a fault. Placing one gentle foot after another, she crept down the train until reaching the booth in question. Hearing scuffling noises and hushed whisper, she took a peek.
+She dropped into a crouch, an old habit of too many nights spent in the dark streets and alleyways of the Gnomish capital of Trolanport. Absent mindedly running a hand over the handle of a dagger strapped across her ribs, she was thankful the thugs who knocked her out a few hours earlier had stowed her belongings in that warehouse, there to take as she and her companions fled. Liana doubted this was would come down to blades, but she was cautious to a fault. Placing one gentle foot after another, she crept down the train until reaching the booth in question. Hearing scuffling noises and hushed whisper, she took a peek.
 
 Inside Liana saw the Dwarf and Half-Orc quickly tieing the hands and feet of the 3, evidently knocked out, figures. The sacks were already over their heads. Liana didn't interrupt straight away. These people were nothing to her, why should she care? Curiosity held her in place though. 
 
@@ -108,7 +110,7 @@ He reacted faster than Liana expected. Dropping his crossbow to the floor, he dr
 
 Liana smiled despite the situation. _We have a lot in common then._ 
 
-They began to move from side to side, staring intently at each other. Looking for an opening. No space to manouvre. A swipe or feint testing the defenses. Trading blows. Liana lacked the reach of his longer weapon and even longer arms. The dwarf had a ball of fire swirling in his hands, trying to find the moment to hurl it at Liana but their careful melee and the sheer size of the Half-Orc was blocking a safe shot.
+They began to move from side to side, staring intently at each other. Looking for an opening. No space to manouvre. A swipe or feint testing the defenses. Trading blows. Liana lacked the reach of his longer weapon and even longer arms. The dwarf had a ball of fire swirling in his hands, trying to find the moment to hurl it at Liana but their careful melee and the sheer size of the Half-Orc was blocking a safe shot. At one end of the carriage Roanmara was also holding onto something, the feathers of a notched and drawn arrow brushing against her cheek, waiting for the right moment. _I don't know about this, what if I hit Nossirah?_ Looking down the train she saw a young girl poke her head above the protection of a chair before her father pulled her back. _I could hit an innocent passenger!_ She released some of the tension on the bow string, still waiting for a safe shot.
 
 Liana could already feel blood beginning to trickle down her left side from the crossbow bolt still lodged an inch into her flesh. Her left arm felt sluggish and hurt to move it. This wasn't the time to be short a limb. _Odds are too fair for my taste._
 
@@ -120,13 +122,15 @@ She heard Nosirrah's heavy footfalls as he ran up the carriage, the sliding of m
 
 Nosirrah stayed silent as he looked Orion in the eyes, resuming Liana's pacing with his shield raised before him. His extensive training with his fathers master-at-arms was whirling through his mind. _Street rat, by the look of him. No formal training. Easy._ His confidence earned from years of half hearted practice in the yard with his household guard held him steady. As Nosirrah focused on his assailant before him, his vision narrowed until everything outside of this Half-Orc, his sword and their fight became a blur in his periphery. 
 
-Somewhere in this blur he saw a flicker of movement and yellow before the suprise of flame and heat. The Dwarf had finally thrown his spell. The ball hit him square in the chest and fire washed over him, his toros wreathed in flame for a moment before it disipated. Rair singed, skin and clothing burnt, Nosirrah was bought crashing back to Eberron as Orion capitalised on the opportunity and ran forward, barelling into the raised shield and raining blows over the top.
+Somewhere in this blur he saw a flicker of movement and yellow before the suprise of flame and heat. The Dwarf had finally thrown his spell. The ball hit him square in the chest and fire washed over him, his toros wreathed in flame for a moment before it disipated. Hair singed, skin and clothing burnt, Nosirrah was bought crashing back to Eberron as Orion capitalised on the opportunity and ran forward, barelling into the raised shield and raining blows over the top.
 
 Nosirrah barely managed to defend himself, meeting most blows with his sword. The repeated impacts shot up his arm before Orion's superior strength won through and his short sword came crunching down through Nosirrah's weakening guard to cut at his shoulder. Leaving a deep gash in his clothing, the leather and chain beneath took the bladed edge off the strike. But the hammer blow remained and smashed into muscle.
 
-Mialee had come running out into the walkway, drawing upon the well of power within her to strike at her opposing mage. Twisting tendrils of power in the air, she flicked 3 beads of blue energy that arced around the brawling fighters and into the Dwarf. Moments before impact they each expanded into the size of a fist and slammed into his head and torso, knocking him off his perch and onto the floor. 
+Mialee had come running out into the walkway, drawing upon the well of power within her to strike at her opposing mage. Twisting tendrils of power in the air, she flicked 3 beads of blue energy that arced around the brawling fighters and into the Dwarf. One flew too close to the window during it's journey, leaving a deep gouge melted into the glass and burning through to the outside. Cold wind began to squeel into the carriage. Moments before impact they each expanded into the size of a fist and slammed into his head and torso, knocking him off his perch and onto the floor. 
 
-Liana, who had retreated into the adjacent booth, took the opportunity to scramble over the divide and jumped down onto the Dwarf. They grappled on the floor, amongst the sleeping bodies of the Silver Flame. They still lay unmoving, sacks over their heads, even next to the rolling tangle of Liana and the mage. The greater weight of the Dwarf was nullified by the shock of Mialee's spell and Liana writhed on top of him, trying to bring her dagger to bear. As they brawled the Dwarf brought a hand up and wrapped it round Liana's throat, crushing his fingers inwards and denying air and vital blood to her brain. Liana desperately clawed at the hand before swinging her dagger round and burying it through the Dwarf's arm, the blade sliding between bone and muscle to stick out the other side. He screamed then, an animalistic shriek of pain. Some innate power instantly flowed through his body. Electricity flashed over his skin, mirrored outside the carriage as the train flew along the conductor stones, energy flying over the engine. Liana was thrown back off the Dwarf, the electricity clenching her hands to fists, the dagger held firm in her hand as she landed crumpled on the floor. The Dwarf crawled away under the chairs to another booth, cradling his bloodied wrist.
+Liana, who had retreated into the adjacent booth, took the opportunity to scramble over the divide and jumped down onto the Dwarf. They grappled on the floor, amongst the sleeping bodies of the Silver Flame. They still lay unmoving, sacks over their heads, even next to the rolling tangle of Liana and the mage. The greater weight of the Dwarf was nullified by the shock of Mialee's spell and Liana writhed on top of him, trying to bring her dagger to bear. Face to face, they shared ragged breaths. Liana, oddly detached from her struggle, now noticed the smell of disturbed earth and decay. His arms and neck, presumably the torso to, were covered in odd grey tattoos that made her stomach roil. As they brawled the Dwarf snaked his hand up an arm and shoulder, crushing Liana's throat, denying air and vital blood to her brain. Her vision quickly blurring, she still could've sworn the tattoos were moving, pulsing, as she desperately clawed at the hand. Without thinking, Liana reached to her belt, pulling a second dagger from a sheath and swung it round wildly, burying it through the Dwarf's arm, the blade sliding between bone and muscle to stick out the other side. 
+
+He screamed then, an animalistic shriek of pain. Some innate power instantly flowed through his body. Electricity flashed over his skin, mirrored outside the carriage as the train flew along the conductor stones, energy flying over the engine. Liana was thrown back off the Dwarf, the electricity clenching her hands to fists, the dagger held firm in her hand as she landed crumpled on the floor. The Dwarf crawled away under the chairs to another booth, cradling his bloodied wrist.
 
 Nossirah, recovered from Orions sword strikes, was engaged in frantic attack and parries with the Half-Orc. Neither were comfortable fighting the other, their two worlds colliding with every swipe and block. The raw strength and violence of Orion's street fighting skills against Nosirrah's more refined technique, taught at length with practice swords and repeated drills. Nosirrah's shield was beginning to turn the tide however. With his shield arm offering a strong defense, his sword arm was free to attack as he saw fit and Nosirrah's greater discipline, even without the years of life or death scrapping like his opponent, was beginning to wear Orion down. 
 
@@ -142,6 +146,42 @@ Turning defensively, they saw the Dwarf climbing to his feet and clutching an ar
 
 Nosirrah bent down and grabbed a hand and pulled him upwards, crunching through charred skin. Holding the man up by the singed remains of his clothing, Nosirrah leant forwards until he was inches from the Dwarf's face. "What on Eberron do you think you're doing."
 
-A shuddering sound rang from the Dwarf, an imitation of a laugh. "I am awaited." His slow and pained speech was eerily precise, almost rehearsed. Genuine pleasure was clear in his eyes. "I will live beyond this. I am filled with purpose as Her hand gui-mrrRRNGH." The skin of his lips had begun merging together, knitting itself into 1 pale slab. His eye sockets forming together, the ears peeling flat back to his skull. It was now he began to shake, feet tapping against the floor as he tipped his head back. He seemed overtaken by ecstacy, the remains of his features somehow conveying pure, rapturous joy. Nosirrah dropped him to the floor, the thrashing continued for a few horrifying seconds before his body went limp.
+A shuddering sound rang from the Dwarf, an imitation of a laugh. "I am awaited." His slow and pained speech was eerily precise, almost rehearsed. Genuine pleasure was clear in his eyes. "I will persist beyond this life. I am meant for greatness, the power within me burns so bright -" he spluttered blood onto his chin. "It flows, the power flows. She fills me with purpose as Her hand gui-mrrRRNGH." The skin of his lips had begun to merge, knitting itself into 1 pale slab. His eye sockets forming together, the ears peeling flat back to his skull. It was now he began to shake, feet tapping against the floor, head tipped back as if praying to some god. He seemed overtaken by ecstacy, the remains of his features somehow conveying pure, rapturous joy. Nosirrah dropped him to the floor, cringing away from the man. The thrashing continued for a few horrifying seconds before his body went limp.
+
+# Chapter end here?
+
+Roanmara stepped to Nosirrah's side, resting a comforting hand upon his shoulder. He turned, startled, his body still racing on adrenaline and instinct, before realising his mistake. "Sorry, Roanmara. Not used to this." 
+
+"It's no problem, really!" She smiled at Nosirrah, trying to brighten his spirits "Today has been eventful for all of us, to say the least." Roanmara looked down to survey the man at their feet, 5ft of crisped skin and clothing, no face in the traditional sense left to speak of. Only smooth patches of skin remained in the place of lips and eyes, at odds with the burnt skin elsewhere. She frowned. "Such a shame, to throw away his life like that. What were you talking about there, at the end?"
+
+"Something about the power within him and how he's gonna live forever," offered Liana, "y'know, normal stuff for a crazed kidnapper." She frowned. "He did have these tattoos though, they were weird. Made me feel sick just looking at them, all grey and swirling."
+
+"Like this?" Barry called, crouched next to the Half-Orc Orion, now very much dead. He dropped the arm he had gingerly held and been inspecting in a gloved hand. With his shirt opened to the waist, the others could see tattoos on a muscled chest that matched Liana's description. Grey swirling shapes were moving slowly across his torso, like waves or some living creature. Sometimes 2 would merge together, pulsating for a moment before continuing on their slow journey across his flesh. 
+
+"That is WEIRD" exclaimed Nosirrah.
+
+"That's unnatural" said Roanmara in a low voice, shuffling uncomfortably. "The Dwarf said something about living forever, right?" looking enquiringly toward Liana. 
+
+"His exact words were _I will persist beyond this life_, whatever that means." she said, waving a dismissive hand.
+
+"Hmmm, that is strange." Roanmara stood thoughtfully for a moment, running a hand through her hair. "If he was an Elf I'd suggested he was of Aerenal, their views regarding life after death are common knowledge. We don't all believe that Aerenei nonsense, I might add" she said rather forcefully. "But that's obviously not the case here..." her voice drifted off. They all stood silently for a moment, staring at the 2 bodies before them.
+
+Liana's eyes, ever the pragmatist, were roving over the 2 bodies looking for anything of value. She knelt down, grabbing an arm from Dwarf and Half-Orc alike. "They both had rings on, thought this one got fried along with it's owner." She waved the hand of the Dwarf, showing the others the blob of silver metal merged into the flesh of a finger. "As I said, they had rings on. Emphasis on the..." she tugged at the silver band of the Half-Orc's finger "HAD!" before it gave way with a lurch. She stumbled backwards as the resistance suddenly gave way. "Huh, no wonder" she said, holding it up so the others could see. 
+
+The ring was a crude silver band, an apparent lack of craftsmanship. It had small shards of some green gem pushed into the metal in ramshackle fashion, no pattern or thought evident in it's appearance. But what really caught the eye, and Orion's finger no doubt, were a series of spikes on the inside of the band, all pointing inwards. These to were crudely rendered, all uneven and sharp, some with cruel back-facing barbs. As the others inspected the ring, Mialee spat out "Liana drop it!" and slapped it from her hand. It fell to the floor, thudding into the blood-soaked carpet.
+
+"Hey, what was that for! I found it first, you'll have to -"
+
+"It was DRINKING YOUR BLOOD, Liana!" Mialee interjected. "Look!" she exclaimed, grabbing the hand she'd just slapped. "Look at this." A clear and uniform stream of blood ran from the sleeve of her clothing, down the arm and ran up the fingers Liana was using to hold the ring.
+
+"I took a bolt from this asshole" Liana replied, kicking the Half-Orc for good measure. "So what?"
+
+From the floor, all the crouching Roanmara whispered was "She's right" staring at the ring on the floor. It had landed in the still widening pool of blood yet it now lay at the centre of a ring of clear carpet maybe a foot in diamete, broken only by 3 thin channels of blood leading into the ring. These channels were slowly rotating around the ring, a whirlpool of Orions lifeblood.
+
+"And he...he chose to wear that?!?" Nosirrah struggled with the words. 
+
+"You assume he chose?" replied Barry, shrugging slightly.
+
+
 
 TODO: Roanmara should mention that she wanted to shoot her bow to help out, but didn't want to hit any innocent bystanders.
