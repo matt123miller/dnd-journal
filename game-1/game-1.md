@@ -30,7 +30,7 @@ The others exchanged tense chuckles, some of the terror beginning to shake off. 
 
 "I'm Roanmara" said the Elf to noone in particular, "my family lives near Lake Galifar. We have tend the land there with our neighbours. Mother and Father, myself, Lillith" her voice trailing off as she thumbed the edge of a carved wooden pendant that hung from her delicate neck, not wanting to share too much with these strangers.
 
-Before the Half-Elf could introduce herself, the group was interrupted by the carriage door opening behind them. Wind rushed in behind the slight frame of a female pattern Warforged pushing a trolley before her.  Her gentle gait was at odds with the connected (TODO: better word than connected?) stone and metal body moving beneath the deep blue jacket uniform of train staff. The grey stone plates of her face formed a welcoming smile, matched in the pale blue light glowing within her eye sockets.
+Before the Half-Elf could introduce herself, the group was interrupted by the carriage door opening behind them. Wind rushed in behind the slight frame of a female pattern Warforged pushing a trolley before her.  Her gentle gait was at odds with the fused stone and metal body moving beneath the deep blue jacket uniform of train staff. The grey stone plates of her face formed a welcoming smile, matched in the pale blue light glowing within her eye sockets.
 
 (HP THROWBACK!) "Anything from the trolley dears?" she slowly asked, a faint hint of a metallic ring behind her words. "I've got sandwiches, tea or coffee to perk you up,some biscuits and even a little cheese out of Talenta if you like."
 
@@ -192,4 +192,4 @@ Liana struggled a response. "I...Thank you." she finally said, before turning aw
 
 "My pleasure" said Roanmara. "Now, pass me that ring please Barry and I'll make sure it's properly taken care of." She had produced a small pouch from somewhere and, after emptying what appeared to be dried herbs and leaves into her pocket, Roanmara delicately took hold of the ring through the pouch and folded the roughly woven fabric around it before tying it to her belt.
 
-WARFORGED CAPTAIN COMES IN AND OH BOY. BARRY IS A LIEING LAD. THAT HALFLING I FORGOT THE NAME OF ARRIVES AND TAKES THE PRAISE FOR HIMSELF.
+WARFORGED CAPTAIN COMES IN AND OH BOY. BARRY IS A LIEING LAD. THE HALFLING MERRIC ARRIVES AND TAKES THE PRAISE FOR HIMSELF.
