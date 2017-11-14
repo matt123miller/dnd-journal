@@ -193,3 +193,7 @@ Liana struggled a response. "I...Thank you." she finally said, before turning aw
 "My pleasure" said Roanmara. "Now, pass me that ring please Barry and I'll make sure it's properly taken care of." She had produced a small pouch from somewhere and, after emptying what appeared to be dried herbs and leaves into her pocket, Roanmara delicately took hold of the ring through the pouch and folded the roughly woven fabric around it before tying it to her belt.
 
 WARFORGED CAPTAIN COMES IN AND OH BOY. BARRY IS A LIEING LAD. THE HALFLING MERRIC ARRIVES AND TAKES THE PRAISE FOR HIMSELF.
+
+
+
+REMEMBER THAT SARAH INVITES THE GROUP TO HER TEMPLE WHERE THEY CAN SLEEP AND RECIEVE A REWARD.
