@@ -1,0 +1,5 @@
+# Game 2.2
+
+That feeling wouldn't last however. As they left the temple behind and begun to walk among the crowds of people again, Liana said "Well at least it wasn't a total waste. Mina has a new admirer" she poked Barry hard in the arm "and you get to put on a show later."
+
+"'Scuse me mister!" Barry turned to see a Goblin girl, smaller even than the few Goblins Barry had encountered during his travels. She was surrounded by a group of children all rushing to get through. As they whipped through Barry felt something brush his hip and instinct made him lunge a hand outwards. His fingers clamped down on a wafer thing wrist. Turning, he saw a Kobold struggling to break free of his grip, one hand holding Barry's coin purse. Scaled fronds skin, enforced with spines, ran from the top of their head down to the middle of their back. The Kobold's struggling changed for just a moment as they lay their other hand on Barry's firm grip, which suddenly released as a small arc of lightning surged up his arm. With that the Kobold ran, trying to disappear into the crowd with their friends.

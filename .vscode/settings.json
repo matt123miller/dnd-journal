@@ -1,5 +1,6 @@
 {
     "editor.fontSize": 17,
     "window.zoomLevel": 1,
-    "editor.fontFamily": "Consolas, monospace, 'Courier New'"
+    "editor.fontFamily": "Consolas, monospace, 'Courier New'",
+    "python.pythonPath": "/usr/local/bin/python3"
 }
