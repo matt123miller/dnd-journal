@@ -4,9 +4,9 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-filePaths	../main.py	/^filePaths = ['game-1\/game-1.md', 'game-1\/game-1-notes.md', 'game-2\/game-2.md', 'game-3\/game-3.md', 'game-4\/game-4.md',$/;"	kind:variable	line:12
-main	../main.py	/^def main():$/;"	kind:function	line:16
+filePaths	../main.py	/^filePaths = ['game-1\/game-1.md', 'game-1\/game-1-notes.md', 'game-2\/game-2.1.md',$/;"	kind:variable	line:12
+main	../main.py	/^def main():$/;"	kind:function	line:18
 main.py	../main.py	1;"	kind:file	line:1
 os	../main.py	/^import os$/;"	kind:namespace	line:2
 sys	../main.py	/^import sys$/;"	kind:namespace	line:1
-word_count	../main.py	/^def word_count(mdFile):$/;"	kind:function	line:27
+word_count	../main.py	/^def word_count(mdFile):$/;"	kind:function	line:29
